@@ -26,7 +26,7 @@ import java.util.Scanner;
                     System.out.println(" Plus grand");
                 } else {
                     System.out.println("Plus petit");
-                }
+                    }
             }
             // Code si trouve pas
             if (!gagne) {

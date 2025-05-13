@@ -1,0 +1,1 @@
+#Jeu de Devinette C'est jeu dans lequel l'utilisateur est amené a deviné un nombre génerer entre 0 et 100. Le jeu prend en compte le nombre entrée par l'utilisateur et lui dit s'il le nombre entrée est trop grand ou trop petit et enfin lui dit s'il a trouvée
